@@ -4,7 +4,7 @@ Personal portfolio website showcasing my backend development projects, technical
 
 ## 🌐 Live Portfolio
 
-**[View Portfolio](YOUR_NETLIFY_URL_HERE)**
+**[View Portfolio](https://abhinandan-karmakar.netlify.app/)**
 
 > The portfolio is deployed on Netlify with continuous deployment from the `main` branch.
 
